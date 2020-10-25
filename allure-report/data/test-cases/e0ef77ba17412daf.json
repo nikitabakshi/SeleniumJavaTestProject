@@ -1,0 +1,110 @@
+{
+  "uid" : "e0ef77ba17412daf",
+  "name" : "searchLocation",
+  "fullName" : "com.java.testcases.HomeTest.searchLocation",
+  "historyId" : "82343b11bf714b6aee3f6a10ad412c16",
+  "time" : {
+    "start" : 1603085522170,
+    "stop" : 1603085529892,
+    "duration" : 7722
+  },
+  "description" : "Search a Location",
+  "descriptionHtml" : "<p>Search a Location</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1603085500432,
+      "stop" : 1603085522054,
+      "duration" : 21622
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "changeTestName",
+    "time" : {
+      "start" : 1603085522134,
+      "stop" : 1603085522135,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1603085529901,
+      "stop" : 1603085530573,
+      "duration" : 672
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchLocation"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "host",
+    "value" : "INND3LTFVMHX33"
+  }, {
+    "name" : "thread",
+    "value" : "67940@INND3LTFVMHX33.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0ef77ba17412daf.json",
+  "parameterValues" : [ ]
+}

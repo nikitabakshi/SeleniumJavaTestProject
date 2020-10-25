@@ -1,0 +1,100 @@
+{
+  "uid" : "3d5c0ea1000f81f1",
+  "name" : "Search Location",
+  "fullName" : "com.java.testcases.HomeTest.verifySearchLocation",
+  "historyId" : "5344df018ba14ee5accdfd9433ea17ec",
+  "time" : {
+    "start" : 1603450578688,
+    "stop" : 1603450584221,
+    "duration" : 5533
+  },
+  "description" : "Search Location Test Case",
+  "descriptionHtml" : "<p>Search Location Test Case</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1603450561150,
+      "stop" : 1603450578637,
+      "duration" : 17487
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1603450584341,
+      "stop" : 1603450585034,
+      "duration" : 693
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifySearchLocation"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "host",
+    "value" : "INND3LTFVMHX33"
+  }, {
+    "name" : "thread",
+    "value" : "72464@INND3LTFVMHX33.pool-1-thread-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "trivial"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "platform",
+    "value" : "Chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d5c0ea1000f81f1.json",
+  "parameterValues" : [ "Chrome" ]
+}

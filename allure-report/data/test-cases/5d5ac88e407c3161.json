@@ -1,0 +1,108 @@
+{
+  "uid" : "5d5ac88e407c3161",
+  "name" : "searchLocation",
+  "fullName" : "com.java.testcases.HomeTest.searchLocation",
+  "historyId" : "82343b11bf714b6aee3f6a10ad412c16",
+  "time" : {
+    "start" : 1603016316460,
+    "stop" : 1603016325801,
+    "duration" : 9341
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "changeTestName",
+    "time" : {
+      "start" : 1603016316371,
+      "stop" : 1603016316375,
+      "duration" : 4
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1603016297804,
+      "stop" : 1603016316172,
+      "duration" : 18368
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1603016325812,
+      "stop" : 1603016326534,
+      "duration" : 722
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchLocation"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "host",
+    "value" : "INND3LTFVMHX33"
+  }, {
+    "name" : "thread",
+    "value" : "70344@INND3LTFVMHX33.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d5ac88e407c3161.json",
+  "parameterValues" : [ ]
+}

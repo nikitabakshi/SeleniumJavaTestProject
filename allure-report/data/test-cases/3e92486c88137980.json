@@ -1,0 +1,170 @@
+{
+  "uid" : "3e92486c88137980",
+  "name" : "Verification of Property Prices",
+  "fullName" : "com.java.testcases.PropertyTest.getallPropertyPrices",
+  "historyId" : "bc6f6b6c42e26092f1ffc0beacbfc64e",
+  "time" : {
+    "start" : 1603625435048,
+    "stop" : 1603625456897,
+    "duration" : 21849
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1603625434999,
+      "stop" : 1603625435001,
+      "duration" : 2
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1603625421505,
+      "stop" : 1603625434890,
+      "duration" : 13385
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1603625456907,
+      "stop" : 1603625456954,
+      "duration" : 47
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.java.testcases.PropertyTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.java.testcases.PropertyTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getallPropertyPrices"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test1"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.java.testcases.PropertyTest"
+  }, {
+    "name" : "host",
+    "value" : "INND3LTFVMHX33"
+  }, {
+    "name" : "thread",
+    "value" : "89856@INND3LTFVMHX33.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "CHROME"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2521a2d1819d3a83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603604667957,
+        "stop" : 1603604678407,
+        "duration" : 10450
+      }
+    }, {
+      "uid" : "5b52335cb470060d",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.111)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'INND3LTFVMHX33', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\\Users\\NIKITA~1.BAK\\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: b4010d7a1ea598921e73c96791bfe40c\n*** Element info: {Using=xpath, value=//div[@class='dp-sidebar-wrapper']//div[@class='ui-agent__logo']/img}",
+      "time" : {
+        "start" : 1603603572592,
+        "stop" : 1603603584307,
+        "duration" : 11715
+      }
+    }, {
+      "uid" : "56e8e65859ae090c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603603025318,
+        "stop" : 1603603040718,
+        "duration" : 15400
+      }
+    }, {
+      "uid" : "a15049d4809f40c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603602971438,
+        "stop" : 1603602983481,
+        "duration" : 12043
+      }
+    }, {
+      "uid" : "cb887789c16b94bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603602858098,
+        "stop" : 1603602872372,
+        "duration" : 14274
+      }
+    }, {
+      "uid" : "1b349bac4f47fef6",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1603602716369,
+        "stop" : 1603602716370,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "30ea6103f98965f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1603602481892,
+        "stop" : 1603602481893,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e92486c88137980.json",
+  "parameterValues" : [ "CHROME" ]
+}

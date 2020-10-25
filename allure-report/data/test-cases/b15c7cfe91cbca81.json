@@ -1,0 +1,97 @@
+{
+  "uid" : "b15c7cfe91cbca81",
+  "name" : "Search Location",
+  "fullName" : "com.java.testcases.HomeTest.verifySearchLocation",
+  "historyId" : "9ec749b7a144b24a078459d693b5d07d",
+  "time" : {
+    "start" : 1603450231284,
+    "stop" : 1603450237073,
+    "duration" : 5789
+  },
+  "description" : "Search Location Test Case",
+  "descriptionHtml" : "<p>Search Location Test Case</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1603450216667,
+      "stop" : 1603450231131,
+      "duration" : 14464
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1603450237252,
+      "stop" : 1603450237989,
+      "duration" : 737
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifySearchLocation"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "host",
+    "value" : "INND3LTFVMHX33"
+  }, {
+    "name" : "thread",
+    "value" : "80140@INND3LTFVMHX33.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "trivial"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b15c7cfe91cbca81.json",
+  "parameterValues" : [ ]
+}

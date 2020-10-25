@@ -1,0 +1,158 @@
+{
+  "uid" : "38b757ea8fcedc7b",
+  "name" : "Verify Title",
+  "fullName" : "com.java.testcases.HomeTest.verifyTitle",
+  "historyId" : "50983603b2bac338c6c011bef0ec4bee",
+  "time" : {
+    "start" : 1603604652278,
+    "stop" : 1603604652347,
+    "duration" : 69
+  },
+  "description" : "Verify Title",
+  "descriptionHtml" : "<p>Verify Title</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1603604639542,
+      "stop" : 1603604651998,
+      "duration" : 12456
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1603604652356,
+      "stop" : 1603604652508,
+      "duration" : 152
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyTitle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "host",
+    "value" : "INND3LTFVMHX33"
+  }, {
+    "name" : "thread",
+    "value" : "69260@INND3LTFVMHX33.pool-1-thread-2(14)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "CHROME"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c54c56ab16fccef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603603561053,
+        "stop" : 1603603561072,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "c4228e6c7f41fe8b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1603603212623,
+        "stop" : 1603603212626,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "3322ae4387ba60df",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1603603014830,
+        "stop" : 1603603014834,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "2b595d03c635f112",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603602711452,
+        "stop" : 1603602711464,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "be31d79dbf9a9540",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603602634524,
+        "stop" : 1603602634536,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "faaa9f250fbe8e01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603602481817,
+        "stop" : 1603602481837,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "919386e8450a6084",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603602312404,
+        "stop" : 1603602312415,
+        "duration" : 11
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38b757ea8fcedc7b.json",
+  "parameterValues" : [ "CHROME" ]
+}

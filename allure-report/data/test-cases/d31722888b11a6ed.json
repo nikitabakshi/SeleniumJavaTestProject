@@ -1,0 +1,338 @@
+{
+  "uid" : "d31722888b11a6ed",
+  "name" : "setUp",
+  "fullName" : "com.java.testcases.BaseTest.setUp",
+  "historyId" : "e522f93a09b9d9445582b90f9dd2f414",
+  "time" : {
+    "start" : 1603539732038,
+    "stop" : 1603539732042,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "statusMessage" : "java.lang.NullPointerException",
+  "statusTrace" : "java.lang.NullPointerException\r\n\tat org.testng.internal.Invoker.invokeConfigurations(Invoker.java:178)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:585)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)\r\n\tat java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)\r\n\tat java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)\r\n\tat java.lang.Thread.run(Thread.java:748)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "setUp"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.java.testcases.HomeTest"
+  }, {
+    "name" : "host",
+    "value" : "INND3LTFVMHX33"
+  }, {
+    "name" : "thread",
+    "value" : "51580@INND3LTFVMHX33.pool-1-thread-2(17)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aa989782e80464d5",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603539732038,
+        "stop" : 1603539732042,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "554011976d5c63b4",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603539683712,
+        "stop" : 1603539683724,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "d7505b3654be4215",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603539683712,
+        "stop" : 1603539683724,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "c264fea0fad35e0b",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603539670022,
+        "stop" : 1603539670025,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "449964c0cc5626eb",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603539670022,
+        "stop" : 1603539670025,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "75faaaeb6b33bbac",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603539578780,
+        "stop" : 1603539578783,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "b0a003150d984d8d",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603539578780,
+        "stop" : 1603539578783,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "4f14b53ebc0e8857",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538743224,
+        "stop" : 1603538743228,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "18a5532a53d6216d",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538743224,
+        "stop" : 1603538743228,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "5b075a9600260655",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538701030,
+        "stop" : 1603538701034,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "593e83f781027199",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538701030,
+        "stop" : 1603538701034,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "fb43414e1effabd8",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538605026,
+        "stop" : 1603538605029,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "c9e19bc2b08651",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538605026,
+        "stop" : 1603538605029,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "e7c162d3cba5d0cc",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538535440,
+        "stop" : 1603538535440,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d09c0b1f5f9af377",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538535440,
+        "stop" : 1603538535440,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ed130a0542380d92",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538509907,
+        "stop" : 1603538509910,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "d69442fe0c66c759",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538509907,
+        "stop" : 1603538509910,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "c7034b94d75107ef",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538374652,
+        "stop" : 1603538374657,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "6a5e6ad07dd519b2",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538374652,
+        "stop" : 1603538374657,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "245253905cd9bc1e",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538349812,
+        "stop" : 1603538349814,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a8caffe867deabd5",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538349812,
+        "stop" : 1603538349814,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "273b3a684f0e5d33",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538221430,
+        "stop" : 1603538221432,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "5905101d3c304455",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603538221430,
+        "stop" : 1603538221433,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "1469dcd5d22f4b6b",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603537404816,
+        "stop" : 1603537404818,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1d14465decc486a",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603537404816,
+        "stop" : 1603537404818,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "918c3e0addd9fb6",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603537389275,
+        "stop" : 1603537389277,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "68b202ec9c7959db",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603537389275,
+        "stop" : 1603537389277,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6539c789544e5b53",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.111)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'INND3LTFVMHX33', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\\Users\\NIKITA~1.BAK\\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:57914}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: c5ac4f2c635be7ddbcf28d287a7cfef1",
+      "time" : {
+        "start" : 1603536297666,
+        "stop" : 1603536297668,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "72cd1beb664d4989",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.111)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'INND3LTFVMHX33', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\\Users\\NIKITA~1.BAK\\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:57914}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: c5ac4f2c635be7ddbcf28d287a7cfef1",
+      "time" : {
+        "start" : 1603536297666,
+        "stop" : 1603536297668,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "386b8fcb427dc68e",
+      "status" : "broken",
+      "statusDetails" : "session not created\nfrom chrome not reachable\n  (Session info: chrome=86.0.4240.111)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'INND3LTFVMHX33', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: Backtrace:\n\tOrdinal0 [0x005AC013+3194899]\n\tOrdinal0 [0x00496021+2056225]\n\tOrdinal0 [0x0032F4B0+586928]\n\tOrdinal0 [0x00325894+546964]\n\tOrdinal0 [0x00325F2C+548652]\n\tOrdinal0 [0x00327175+553333]\n\tOrdinal0 [0x0032241E+533534]\n\tOrdinal0 [0x00330620+591392]\n\tOrdinal0 [0x002D2A0C+207372]\n\tOrdinal0 [0x002D1D0D+204045]\n\tOrdinal0 [0x002CFC1B+195611]\n\tOrdinal0 [0x002B3B7F+80767]\n\tOrdinal0 [0x002B4B4E+84814]\n\tOrdinal0 [0x002B4AD9+84697]\n\tOrdinal0 [0x004ACE64+2149988]\n\tGetHandleVerifier [0x0071BE95+1400773]\n\tGetHandleVerifier [0x0071BB61+1399953]\n\tGetHandleVerifier [0x007231FA+1430314]\n\tGetHandleVerifier [0x0071C69F+1402831]\n\tOrdinal0 [0x004A3D61+2112865]\n\tOrdinal0 [0x004AE5CB+2155979]\n\tOrdinal0 [0x004AE6F5+2156277]\n\tOrdinal0 [0x004BF26E+2224750]\n\tBaseThreadInitThunk [0x76226359+25]\n\tRtlGetAppContainerNamedObjectPath [0x77B47C24+228]\n\tRtlGetAppContainerNamedObjectPath [0x77B47BF4+180]\n",
+      "time" : {
+        "start" : 1603437900848,
+        "stop" : 1603437900849,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d31722888b11a6ed.json",
+  "parameterValues" : [ ]
+}

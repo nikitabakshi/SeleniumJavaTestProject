@@ -1,0 +1,468 @@
+{
+  "757a9bcac6a98165a28e98ed1c09b4a9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5fdc173fdf216f34",
+      "status" : "broken",
+      "statusDetails" : "Thread safety error; this instance of WebDriver was constructed on thread pool-1-thread-2 (id 17) and is being accessed by thread pool-1-thread-1 (id 16)This is not permitted and *will* cause undefined behaviour\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'INND3LTFVMHX33', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\nDriver info: driver.version: unknown",
+      "time" : {
+        "start" : 1603603201578,
+        "stop" : 1603603201581,
+        "duration" : 3
+      }
+    } ]
+  },
+  "e522f93a09b9d9445582b90f9dd2f414" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d31722888b11a6ed",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603539732038,
+        "stop" : 1603539732042,
+        "duration" : 4
+      }
+    } ]
+  },
+  "cacd370901da6b931de3a38a5ac021f3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8efefb4987a35f7c",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a href=\"/for-sale/details/56646025?search_identifier=6323219902a84fc51cd97861178ef6ce\" class=\"listing-results-price text-price\">...</a> is not clickable at point (606, 12). Other element would receive the click: <img data-src=\"https://st.zoocdn.com/zoopla_static_agent_logo_(695801).png\" alt=\"Marketed by Gibbs Gillespie - Ruislip Manor\" class=\" lazy\">\n  (Session info: chrome=86.0.4240.75)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'INND3LTFVMHX33', ip: '192.168.1.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\\Users\\NIKITA~1.BAK\\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:59019}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 0a2cbd4b9d0d95798d96af90644b8b41",
+      "time" : {
+        "start" : 1603097836109,
+        "stop" : 1603097849034,
+        "duration" : 12925
+      }
+    } ]
+  },
+  "d859598e4280965764d178605eb12291" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2590b10966df51",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603602181801,
+        "stop" : 1603602181803,
+        "duration" : 2
+      }
+    } ]
+  },
+  "bc6f6b6c42e26092f1ffc0beacbfc64e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e92486c88137980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603625435048,
+        "stop" : 1603625456897,
+        "duration" : 21849
+      }
+    } ]
+  },
+  "82343b11bf714b6aee3f6a10ad412c16" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b8723954c9c236be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603091595235,
+        "stop" : 1603091605988,
+        "duration" : 10753
+      }
+    } ]
+  },
+  "f1fb6e1257f2367c36550c09b9600ebf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c40d458a1eda49a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603450597773,
+        "stop" : 1603450603512,
+        "duration" : 5739
+      }
+    } ]
+  },
+  "6410999035ba7aeb0b77e61ef1cbebea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ee2fb12b591cf8e",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603602716364,
+        "stop" : 1603602716364,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1d4a43347963b9609843c4196a77a761" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7ad41f67db847199",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1603602181864,
+        "stop" : 1603602181864,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9ec749b7a144b24a078459d693b5d07d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "13b838fc34cfb91f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603600410782,
+        "stop" : 1603600414927,
+        "duration" : 4145
+      }
+    } ]
+  },
+  "5dd5b0235a2306427e31005c8a84b8ee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cc9a9e3d21d50d75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603604652278,
+        "stop" : 1603604657635,
+        "duration" : 5357
+      }
+    } ]
+  },
+  "d97875ba1022814184a1cf66597231fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec409c1aa79f43de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603451817245,
+        "stop" : 1603451835497,
+        "duration" : 18252
+      }
+    } ]
+  },
+  "a511dbc4a9fa9a1e06b9f2c97aa3d5ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eeb8665acd72eeac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603600410622,
+        "stop" : 1603600410698,
+        "duration" : 76
+      }
+    } ]
+  },
+  "d6c536a7c45049b8254d1fe4c88c1e93" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55b736692dbd8ab",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1603602317301,
+        "stop" : 1603602317302,
+        "duration" : 1
+      }
+    } ]
+  },
+  "91a3916eb79a3e70db5eb6ddf783d35e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "85647ee15175be43",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603539732207,
+        "stop" : 1603539732207,
+        "duration" : 0
+      }
+    } ]
+  },
+  "50983603b2bac338c6c011bef0ec4bee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38b757ea8fcedc7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603604652278,
+        "stop" : 1603604652347,
+        "duration" : 69
+      }
+    } ]
+  },
+  "28b412ec6400201b29b3bd0c481943e3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a175f8482d092244",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.111)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'INND3LTFVMHX33', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\\Users\\NIKITA~1.BAK\\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: b4010d7a1ea598921e73c96791bfe40c",
+      "time" : {
+        "start" : 1603603584330,
+        "stop" : 1603603584330,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5ac398d9cc888479745e729fce535e7f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "689747dc235c1a7b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1603602181814,
+        "stop" : 1603602181817,
+        "duration" : 3
+      }
+    } ]
+  },
+  "ac66e8cbd22a764297d5892bfbcb7653" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7531e837c9e47c6",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603602317296,
+        "stop" : 1603602317297,
+        "duration" : 1
+      }
+    } ]
+  },
+  "f13feb751908bd2613ad673286fcb903" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9486fafc0c970373",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603092266729,
+        "stop" : 1603092275363,
+        "duration" : 8634
+      }
+    } ]
+  },
+  "ae6cd29ed00f4177e6160021c8afcb81" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "733f0fc26960b9e4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1603602181814,
+        "stop" : 1603602181818,
+        "duration" : 4
+      }
+    } ]
+  },
+  "5344df018ba14ee5accdfd9433ea17ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9693d7d45d1457f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603450650740,
+        "stop" : 1603450656639,
+        "duration" : 5899
+      }
+    } ]
+  },
+  "1c1ec9bd8141dfcd70b156d1d12c2ad5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5cf58789da009037",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1603602181859,
+        "stop" : 1603602181859,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a0a31e10b96ffa3beb2700f123488523" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c8280a66a51f7b1",
+      "status" : "broken",
+      "statusDetails" : "invalid session id\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'INND3LTFVMHX33', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\\Users\\NIKITA~1.BAK\\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64036}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 12efbeea20d216ba2e75e05689de949e",
+      "time" : {
+        "start" : 1603603561322,
+        "stop" : 1603603561322,
+        "duration" : 0
+      }
+    } ]
+  }
+}

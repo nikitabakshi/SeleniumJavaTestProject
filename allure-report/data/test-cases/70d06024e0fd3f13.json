@@ -1,0 +1,60 @@
+{
+  "uid" : "70d06024e0fd3f13",
+  "name" : "display",
+  "fullName" : "com.java.testcases.DemoTest.display",
+  "historyId" : "d97875ba1022814184a1cf66597231fc",
+  "time" : {
+    "start" : 1603444975439,
+    "stop" : 1603444996196,
+    "duration" : 20757
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.java.testcases.DemoTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.java.testcases.DemoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "display"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.java.testcases.DemoTest"
+  }, {
+    "name" : "host",
+    "value" : "INND3LTFVMHX33"
+  }, {
+    "name" : "thread",
+    "value" : "91956@INND3LTFVMHX33.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70d06024e0fd3f13.json",
+  "parameterValues" : [ ]
+}

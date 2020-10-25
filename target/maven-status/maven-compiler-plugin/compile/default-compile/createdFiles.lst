@@ -1,0 +1,10 @@
+com\java\pages\BasePage.class
+com\java\pages\PropertyDetailsPage.class
+com\java\appconstants\Constants$ReadProperties.class
+com\java\util\GenericFunctions.class
+com\java\pages\PropertyAgentPage.class
+com\java\appconstants\Constants$DynamicWaits.class
+com\java\pages\PropertyPage.class
+com\java\appconstants\Constants.class
+com\java\pages\HomePage.class
+com\java\pages\Page.class

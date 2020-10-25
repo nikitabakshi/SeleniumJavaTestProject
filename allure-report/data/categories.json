@@ -1,0 +1,159 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element click intercepted: Element <a href=\"/for-sale/details/56646025?search_identifier=6323219902a84fc51cd97861178ef6ce\" class=\"listing-results-price text-price\">...</a> is not clickable at point (606, 12). Other element would receive the click: <img data-src=\"https://st.zoocdn.com/zoopla_static_agent_logo_(695801).png\" alt=\"Marketed by Gibbs Gillespie - Ruislip Manor\" class=\" lazy\">\n  (Session info: chrome=86.0.4240.75)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'INND3LTFVMHX33', ip: '192.168.1.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\\Users\\NIKITA~1.BAK\\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:59019}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 0a2cbd4b9d0d95798d96af90644b8b41",
+      "children" : [ {
+        "name" : "getallPropertyPrices",
+        "uid" : "8efefb4987a35f7c",
+        "parentUid" : "c68c4655d67bab556abff360ff8d2862",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603097836109,
+          "stop" : 1603097849034,
+          "duration" : 12925
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c68c4655d67bab556abff360ff8d2862"
+    }, {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "d31722888b11a6ed",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603539732038,
+          "stop" : 1603539732042,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tearDown",
+        "uid" : "85647ee15175be43",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603539732207,
+          "stop" : 1603539732207,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "d2590b10966df51",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603602181801,
+          "stop" : 1603602181803,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "setUp",
+        "uid" : "5cf58789da009037",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603602181859,
+          "stop" : 1603602181859,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "setUp",
+        "uid" : "d7531e837c9e47c6",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603602317296,
+          "stop" : 1603602317297,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "FIREFOX" ]
+      }, {
+        "name" : "setUp",
+        "uid" : "1ee2fb12b591cf8e",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603602716364,
+          "stop" : 1603602716364,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME" ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    }, {
+      "name" : "Thread safety error; this instance of WebDriver was constructed on thread pool-1-thread-2 (id 17) and is being accessed by thread pool-1-thread-1 (id 16)This is not permitted and *will* cause undefined behaviour\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'INND3LTFVMHX33', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\nDriver info: driver.version: unknown",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "5fdc173fdf216f34",
+        "parentUid" : "a3f8b81ae7490862c632995dca378bf5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603603201578,
+          "stop" : 1603603201581,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME" ]
+      } ],
+      "uid" : "a3f8b81ae7490862c632995dca378bf5"
+    }, {
+      "name" : "invalid session id\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'INND3LTFVMHX33', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\\Users\\NIKITA~1.BAK\\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64036}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 12efbeea20d216ba2e75e05689de949e",
+      "children" : [ {
+        "name" : "tearDown",
+        "uid" : "4c8280a66a51f7b1",
+        "parentUid" : "4d6d134d9e3f70074ead6cb1ecdbf1f4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603603561322,
+          "stop" : 1603603561322,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME" ]
+      } ],
+      "uid" : "4d6d134d9e3f70074ead6cb1ecdbf1f4"
+    }, {
+      "name" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.111)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'INND3LTFVMHX33', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\\Users\\NIKITA~1.BAK\\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: b4010d7a1ea598921e73c96791bfe40c",
+      "children" : [ {
+        "name" : "tearDown",
+        "uid" : "a175f8482d092244",
+        "parentUid" : "334ad2ed83112a575fb6b34b5b7b1cd6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603603584330,
+          "stop" : 1603603584330,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "CHROME" ]
+      } ],
+      "uid" : "334ad2ed83112a575fb6b34b5b7b1cd6"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

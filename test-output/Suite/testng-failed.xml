@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="3" name="Failed suite [Suite]">
+  <parameter name="browser" value="CHROME"/>
+  <test name="Test(failed)" parallel="methods">
+    <parameter name="browser" value="CHROME"/>
+    <classes>
+      <class name="com.java.testcases.PropertyTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.java.testcases.PropertyTest -->
+      <class name="com.java.testcases.HomeTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="verifySearchLocation"/>
+        </methods>
+      </class> <!-- com.java.testcases.HomeTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+  <test name="Test1(failed)">
+    <parameter name="browser" value="CHROME"/>
+    <classes>
+      <class name="com.java.testcases.PropertyTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="getallPropertyPrices"/>
+        </methods>
+      </class> <!-- com.java.testcases.PropertyTest -->
+      <class name="com.java.testcases.HomeTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.java.testcases.HomeTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

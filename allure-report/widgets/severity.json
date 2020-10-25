@@ -1,0 +1,241 @@
+[ {
+  "uid" : "38b757ea8fcedc7b",
+  "name" : "Verify Title",
+  "time" : {
+    "start" : 1603604652278,
+    "stop" : 1603604652347,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8efefb4987a35f7c",
+  "name" : "getallPropertyPrices",
+  "time" : {
+    "start" : 1603097836109,
+    "stop" : 1603097849034,
+    "duration" : 12925
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "85647ee15175be43",
+  "name" : "tearDown",
+  "time" : {
+    "start" : 1603539732207,
+    "stop" : 1603539732207,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "55b736692dbd8ab",
+  "name" : "getallPropertyPrices",
+  "time" : {
+    "start" : 1603602317301,
+    "stop" : 1603602317302,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c40d458a1eda49a0",
+  "name" : "Search Location",
+  "time" : {
+    "start" : 1603450597773,
+    "stop" : 1603450603512,
+    "duration" : 5739
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "5cf58789da009037",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1603602181859,
+    "stop" : 1603602181859,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b8723954c9c236be",
+  "name" : "LOCATION_SEARCH",
+  "time" : {
+    "start" : 1603091595235,
+    "stop" : 1603091605988,
+    "duration" : 10753
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ad41f67db847199",
+  "name" : "getallPropertyPrices",
+  "time" : {
+    "start" : 1603602181864,
+    "stop" : 1603602181864,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "689747dc235c1a7b",
+  "name" : "verifySearchLocation",
+  "time" : {
+    "start" : 1603602181814,
+    "stop" : 1603602181817,
+    "duration" : 3
+  },
+  "status" : "skipped",
+  "severity" : "trivial"
+}, {
+  "uid" : "13b838fc34cfb91f",
+  "name" : "Search Location",
+  "time" : {
+    "start" : 1603600410782,
+    "stop" : 1603600414927,
+    "duration" : 4145
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "5fdc173fdf216f34",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1603603201578,
+    "stop" : 1603603201581,
+    "duration" : 3
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4c8280a66a51f7b1",
+  "name" : "tearDown",
+  "time" : {
+    "start" : 1603603561322,
+    "stop" : 1603603561322,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a175f8482d092244",
+  "name" : "tearDown",
+  "time" : {
+    "start" : 1603603584330,
+    "stop" : 1603603584330,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9693d7d45d1457f6",
+  "name" : "Search Location",
+  "time" : {
+    "start" : 1603450650740,
+    "stop" : 1603450656639,
+    "duration" : 5899
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "ec409c1aa79f43de",
+  "name" : "display",
+  "time" : {
+    "start" : 1603451817245,
+    "stop" : 1603451835497,
+    "duration" : 18252
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ee2fb12b591cf8e",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1603602716364,
+    "stop" : 1603602716364,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "733f0fc26960b9e4",
+  "name" : "verifyTitle",
+  "time" : {
+    "start" : 1603602181814,
+    "stop" : 1603602181818,
+    "duration" : 4
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3e92486c88137980",
+  "name" : "Verification of Property Prices",
+  "time" : {
+    "start" : 1603625435048,
+    "stop" : 1603625456897,
+    "duration" : 21849
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9486fafc0c970373",
+  "name" : "search_new_location",
+  "time" : {
+    "start" : 1603092266729,
+    "stop" : 1603092275363,
+    "duration" : 8634
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d31722888b11a6ed",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1603539732038,
+    "stop" : 1603539732042,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d2590b10966df51",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1603602181801,
+    "stop" : 1603602181803,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d7531e837c9e47c6",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1603602317296,
+    "stop" : 1603602317297,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cc9a9e3d21d50d75",
+  "name" : "Search Location",
+  "time" : {
+    "start" : 1603604652278,
+    "stop" : 1603604657635,
+    "duration" : 5357
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "eeb8665acd72eeac",
+  "name" : "Verify Title",
+  "time" : {
+    "start" : 1603600410622,
+    "stop" : 1603600410698,
+    "duration" : 76
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

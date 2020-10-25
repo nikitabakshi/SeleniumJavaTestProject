@@ -3,6 +3,7 @@
 Framework OverView :
 
 I have used Selenium , Core Java , Allure Reports , Testng as a framework , log 4j for logging and Page Object Model as a design pattern.
+Parallel execution of test cases is also supported in this framework.
 
 Execution steps :
 
